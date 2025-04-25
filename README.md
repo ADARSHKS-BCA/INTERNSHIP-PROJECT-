@@ -1,2 +1,14 @@
- this is the protfolio website that  i buil d
- 
+# 💼 Portfolio Website
+
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experiences as a developer.
+
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- [Optional] React / Tailwind / Bootstrap
+- Git & GitHub
+
+---
